@@ -28,7 +28,9 @@ There can be multiple rows for one image as a single image can have more than on
 
 Implementing FastRCNN model.Downlad model from following git repository.
 If you are using jupyter notebook on local machine then run below command
+
 !git-clone https://github.com/kbardool/keras-frcnn.git
+
 on google colab run=git clone https://github.com/kbardool/keras-frcnn.git
 
 In order to train the model on a new dataset, the format of the input should be:
